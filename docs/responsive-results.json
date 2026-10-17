@@ -1,0 +1,177 @@
+[
+  {
+    "page": "home",
+    "clientWidth": 345,
+    "h1": "Untuk ruang.\nUntuk cerita.\nUntuk Anda.",
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "page": "catalog",
+    "clientWidth": 345,
+    "h1": "Bentuk sederhana.\nKemungkinan beragam.",
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "page": "product",
+    "clientWidth": 345,
+    "h1": "Senja",
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "page": "config",
+    "clientWidth": 345,
+    "h1": "Rancang Senja Anda.",
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "page": "quote",
+    "clientWidth": 345,
+    "h1": "Mari bicarakan\nrancangan Anda.",
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "page": "home",
+    "clientWidth": 375,
+    "h1": "Untuk ruang.\nUntuk cerita.\nUntuk Anda.",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "catalog",
+    "clientWidth": 375,
+    "h1": "Bentuk sederhana.\nKemungkinan beragam.",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "product",
+    "clientWidth": 375,
+    "h1": "Senja",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "config",
+    "clientWidth": 375,
+    "h1": "Rancang Senja Anda.",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "quote",
+    "clientWidth": 375,
+    "h1": "Mari bicarakan\nrancangan Anda.",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "page": "home",
+    "clientWidth": 753,
+    "h1": "Untuk ruang.\nUntuk cerita.\nUntuk Anda.",
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "page": "catalog",
+    "clientWidth": 753,
+    "h1": "Bentuk sederhana.\nKemungkinan beragam.",
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "page": "product",
+    "clientWidth": 753,
+    "h1": "Senja",
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "page": "config",
+    "clientWidth": 753,
+    "h1": "Rancang Senja Anda.",
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "page": "quote",
+    "clientWidth": 753,
+    "h1": "Mari bicarakan\nrancangan Anda.",
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "page": "home",
+    "clientWidth": 1009,
+    "h1": "Untuk ruang.\nUntuk cerita.\nUntuk Anda.",
+    "scrollWidth": 1009,
+    "width": 1024
+  },
+  {
+    "page": "catalog",
+    "clientWidth": 1009,
+    "h1": "Bentuk sederhana.\nKemungkinan beragam.",
+    "scrollWidth": 1009,
+    "width": 1024
+  },
+  {
+    "page": "product",
+    "clientWidth": 1009,
+    "h1": "Senja",
+    "scrollWidth": 1009,
+    "width": 1024
+  },
+  {
+    "page": "config",
+    "clientWidth": 1009,
+    "h1": "Rancang Senja Anda.",
+    "scrollWidth": 1009,
+    "width": 1024
+  },
+  {
+    "page": "quote",
+    "clientWidth": 1009,
+    "h1": "Mari bicarakan\nrancangan Anda.",
+    "scrollWidth": 1009,
+    "width": 1024
+  },
+  {
+    "page": "home",
+    "clientWidth": 1425,
+    "h1": "Untuk ruang.\nUntuk cerita.\nUntuk Anda.",
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "page": "catalog",
+    "clientWidth": 1425,
+    "h1": "Bentuk sederhana.\nKemungkinan beragam.",
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "page": "product",
+    "clientWidth": 1425,
+    "h1": "Senja",
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "page": "config",
+    "clientWidth": 1425,
+    "h1": "Rancang Senja Anda.",
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "page": "quote",
+    "clientWidth": 1425,
+    "h1": "Mari bicarakan\nrancangan Anda.",
+    "scrollWidth": 1425,
+    "width": 1440
+  }
+]

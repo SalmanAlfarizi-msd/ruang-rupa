@@ -1,0 +1,11 @@
+import { cp, mkdir } from 'node:fs/promises';
+import { spawnSync } from 'node:child_process';
+const check=spawnSync(process.execPath,['scripts/check.mjs'],{stdio:'inherit'});
+if(check.status!==0)process.exit(check.status||1);
+await mkdir('dist',{recursive:true});
+await cp('public','dist/public',{recursive:true});
+await cp('src','dist/src',{recursive:true});
+await cp('server.mjs','dist/server.mjs');
+await mkdir('dist/scripts', { recursive: true });
+await cp('scripts/admin-setup.mjs', 'dist/scripts/admin-setup.mjs');
+console.log('Build ready: node dist/server.mjs (local API + static UI).');
